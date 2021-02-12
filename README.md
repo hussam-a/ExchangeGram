@@ -1,6 +1,6 @@
 # Project-Mayhem
 
-A distributed system for sharing encrypted images, written in C and C++
+A fault tolerant distributed system for sharing encrypted images, written in C and C++
 
 ## Authors
 
